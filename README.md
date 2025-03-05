@@ -11,8 +11,7 @@ This dataset contains information on direct marketing campaigns conducted by a P
 - Original Paper:  
   - Moro et al., 2011 - *Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology*. *Proceedings of the European Simulation and Modelling Conference - ESM'2011*, pp. 117-121. [EUROSIS](https://www.eurosis.org).  
 - Number of Instances:  
-  - `bank-full.csv`: 45,211 instances (full dataset, ordered by date from May 2008 to November 2010).  
-  - `bank.csv`: 4,521 instances (10% of `bank-full.csv`, randomly selected for computational efficiency).  
+  - `bank.csv`(originally `bank-full.csv`): 45,211 instances (full dataset, ordered by date from May 2008 to November 2010). (The one used in this repository)
 - Number of Attributes: 16 input features + 1 output variable.  
 
 ## Features  
@@ -44,5 +43,5 @@ This dataset contains information on direct marketing campaigns conducted by a P
 # Files
 | Process | File+Link |
 |--------------------------|------------|
-| Basic Statistics | [Link](https://github.com/astynabilah/Statistics-and-A-B-Testing/blob/main/ basic-statistics.ipynb) |
+| Basic Statistics | [Link](https://github.com/astynabilah/Statistics-and-A-B-Testing/blob/main/basic-statistics.ipynb) |
 | A/B testing using Logistic Regression | [Link](https://github.com/astynabilah/Statistics-and-A-B-Testing/blob/main/AB%20Testing%20using%20Logistic%20Regression.ipynb) |
