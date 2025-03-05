@@ -41,5 +41,8 @@ This dataset contains information on direct marketing campaigns conducted by a P
 ### **Target Variable**  
 17. **y** (binary) – Has the client subscribed to a term deposit? (*yes, no*). 
 
-# A/B Testing
-The whole A/B testing process is stored in [AB Testing using Logistic Regression.ipynb]()
+# Files
+| Process | File+Link |
+|--------------------------|------------|
+| Basic Statistics | [Link](https://github.com/astynabilah/Statistics-and-A-B-Testing/blob/main/ basic-statistics.ipynb) |
+| A/B testing using Logistic Regression | [Link](https://github.com/astynabilah/Statistics-and-A-B-Testing/blob/main/AB%20Testing%20using%20Logistic%20Regression.ipynb) |
